@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mem1984
 - 👀 I’m interested in Web and Mobile Development
 - 🌱 I’m currently learning Django/Python, Node.js, Nuxt.js, Linux and AWS
-- 💞️ I’m looking to collaborate on any projects that seem interesting and wordly
+- 💞️ I’m looking to collaborate on any projects that seem interesting
 - 📫 How to reach me: not available
 
 <!---
